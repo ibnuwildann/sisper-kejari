@@ -8,3 +8,5 @@ Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan
 
 ## live preview
 <a href="https://sisper.kejari-jember.go.id/"> disini</a>
+user : admin
+pass : sisper123
